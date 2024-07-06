@@ -65,7 +65,7 @@ svg {
 
 /* SECTION */
 .section-grid {
-    margin-top: -7em;
+    margin-top: -11vw;
     display: grid;
     grid-template-columns: repeat(10, 1fr);
 }
@@ -176,7 +176,7 @@ a:hover {
     display: grid;
     grid-template-columns: repeat(6, 1fr);
     margin-bottom: 3em;
-    margin-top: -2em;
+    margin-top: -2vw;
 }
 
 .self-image, .lets-talk {
